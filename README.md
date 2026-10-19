@@ -333,7 +333,6 @@ Contributions and suggestions are welcome.
 
 ## 📄 License
 
-No license has been specified in this README. Check the repository for an existing `LICENSE` file before reusing or redistributing the project's code.
 
 ## ❤️ Acknowledgements
 
